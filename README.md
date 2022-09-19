@@ -5,12 +5,12 @@ title: Andrei Pak's CV
 
 <img src="/img/logo.jpg" style="height: 30%;"/>
 
-#####Contacts
-scuall1992@gmail.com
-WhatsApp/Telegram: +79064536733
-https://www.linkedin.com/in/andrei-pak/
+##### Contacts
+###### scuall1992@gmail.com
+###### WhatsApp/Telegram: +79064536733
+###### https://www.linkedin.com/in/andrei-pak/
 
-######Currently in Turkey Antalya
+###### Currently in Turkey Antalya
 
 # Pak Andrei
 Senior Software Developer
@@ -41,13 +41,13 @@ The script could monitor frequencies for channel search and send packets with da
 #### Bachelor Degree at Don State Technical University
 #### 09/2012 - 07/2016
 
-####Location
+###### Location
 Rostov-on-Don, Russia
 
-####Department
+###### Department
 Computer software technology and automated systems
 
-####Speciality
+###### Speciality
 Applied computer science
 
 # Skills
