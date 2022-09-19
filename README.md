@@ -3,7 +3,7 @@ layout: cv
 title: Andrei Pak's CV
 ---
 
-<img src="/img/logo.jpg" style="height: 30%;"/>
+<img src="/logo.jpg" style="height: 30%;"/>
 
 ##### Contacts
 ###### scuall1992@gmail.com
